@@ -1,0 +1,12 @@
+C:\Users\carlc\source\repos\PastilPOS\PastilPOS\bin\Debug\PastilPOS.exe.config
+C:\Users\carlc\source\repos\PastilPOS\PastilPOS\bin\Debug\PastilPOS.exe
+C:\Users\carlc\source\repos\PastilPOS\PastilPOS\bin\Debug\PastilPOS.pdb
+C:\Users\carlc\source\repos\PastilPOS\PastilPOS\obj\Debug\PastilPOS.csproj.AssemblyReference.cache
+C:\Users\carlc\source\repos\PastilPOS\PastilPOS\obj\Debug\PastilPOS.Form1.resources
+C:\Users\carlc\source\repos\PastilPOS\PastilPOS\obj\Debug\PastilPOS.Properties.Resources.resources
+C:\Users\carlc\source\repos\PastilPOS\PastilPOS\obj\Debug\PastilPOS.csproj.GenerateResource.cache
+C:\Users\carlc\source\repos\PastilPOS\PastilPOS\obj\Debug\PastilPOS.csproj.CoreCompileInputs.cache
+C:\Users\carlc\source\repos\PastilPOS\PastilPOS\obj\Debug\PastilPOS.exe
+C:\Users\carlc\source\repos\PastilPOS\PastilPOS\obj\Debug\PastilPOS.pdb
+C:\Users\carlc\source\repos\PastilPOS\PastilPOS\obj\Debug\PastilPOS.Order.resources
+C:\Users\carlc\source\repos\PastilPOS\PastilPOS\obj\Debug\PastilPOS.Checkout.resources
